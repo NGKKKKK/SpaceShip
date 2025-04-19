@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1742062469 source:c:\users\admin\onedrive\desktop\ltnc\gamespaceshipinvaders\func.cpp
+	"func.h"
+
+1741951933 c:\users\admin\onedrive\desktop\ltnc\gamespaceshipinvaders\func.h
+	"defs.h"
+
+1742145210 c:\users\admin\onedrive\desktop\ltnc\gamespaceshipinvaders\defs.h
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1745058901 source:c:\users\admin\onedrive\desktop\ltnc\gamespaceshipinvaders\func_struct.cpp
+	"func_struct.h"
+
+1742165348 c:\users\admin\onedrive\desktop\ltnc\gamespaceshipinvaders\func_struct.h
+	"object.h"
+
+1745060282 c:\users\admin\onedrive\desktop\ltnc\gamespaceshipinvaders\object.h
+	"defs.h"
+	"func.h"
+
+1745059400 source:c:\users\admin\onedrive\desktop\ltnc\gamespaceshipinvaders\main.cpp
+	"defs.h"
+	"object.h"
+	"func.h"
+	"func_struct.h"
+
+1742728180 source:c:\users\admin\onedrive\desktop\ltnc\gamespaceshipinvaders\object.cpp
+	"object.h"
+
